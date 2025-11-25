@@ -1,0 +1,98 @@
+body {
+    font-family: sans-serif;
+    background-color: #000000;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+header {}
+
+.button {}
+
+main {
+    margin-bottom: 20px;
+    padding: 10px;
+    margin-left:60px ;
+    margin-right:60px ;
+}
+
+nav {
+    text-align: center;
+    border-bottom: 2px solid blueviolet;
+    border-top: 2px solid blueviolet;
+    margin: 10px;
+    padding: 5px;
+    color: rgb(243, 33, 33);
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    border-radius: 7px;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+h1 {
+    text-align: center;
+    color: #FFD900;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(204, 226, 7);
+}
+
+.konfeti {
+    color: white;
+    text-align: center;
+}
+
+.eat {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: 10px solid blueviolet;
+    border-radius: 7px;
+    margin-bottom: 100px;
+    padding: 1px 1px 25px 1px;
+
+}
+
+.food {
+    color: black;
+    
+}
+
+.good {
+ 
+  padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    margin:10px;
+}
+
+
+
+.article-but {}
+
+footer {
+    background-color: blueviolet;
+    border-radius:20px;
+     padding:15px 5px 15px 5px;
+     margin:0px 20px 20px 20px ;
+     
+}
+
+footer a {}
+
+.p {
+    color: white;
+}
